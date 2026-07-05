@@ -53,9 +53,19 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+## Certifications
+
+- **[NestJS Architecture & Advanced Patterns](https://learn.nestjs.com/courses/2216378/certificate)** — NestJS, Jun 2026
+- **[NestJS Fundamentals](https://learn.nestjs.com/courses/591712/certificate)** — NestJS, Mar 2026
+- **[Building Scalable Microservices with TypeScript and Node.js](https://www.linkedin.com/learning/certificates/2501729deadfb01a598c437c4a91a8e9299407b62a44be797d42abc2...)** — LinkedIn, Jan 2026
+- **[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/records/X9J9UDF7MUMR)** — The Hong Kong University of Science and Technology (Coursera), Oct 2022
+- **[Software Engineer](https://www.hackerrank.com/certificates/24478aff4ab9)** — HackerRank, Oct 2025
+- **[MEAN Fullstack Trello Clone: WebSocket, Socket IO](https://www.udemy.com/certificate/UC-a38cfee2-9ea2-4809-b555-37103dc9edf7/)** — Udemy, Jan 2026
+
 ## Featured Projects
 
 - **[ChatSphere](https://github.com/sudo-devKm/chat-sphere)** ([live demo](https://chat-sphere-tawny.vercel.app/)) — Real-time chat app with private messaging, group rooms, and presence indicators (Socket.IO). Peer-to-peer WebRTC audio/video calling with no media server required.
+- **[WebRTC VoIP App](https://github.com/sudo-devKm/webrtc)** ([live demo](https://webrtc-seven-alpha.vercel.app)) — Full-stack voice calling app with JWT auth, Redis-backed presence, and Socket.IO signaling (NestJS-style Express backend + Angular frontend). Peer-to-peer audio via DTLS-SRTP/OPUS, with call history and horizontal scaling through Redis pub/sub adapters.
 - **[E-Commerce Platform](https://github.com/sudo-devKm/eCommerce)** — Responsive Angular 8 PWA with Firebase Realtime Database, Firestore security rules, and lazy-loaded routes for fast initial loads.
 
 ## Connect
