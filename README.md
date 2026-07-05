@@ -60,8 +60,8 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-devKm&show_icons=true&theme=default&hide_border=true" alt="Keyur's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-devKm&layout=compact&hide_border=true" alt="Top languages" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sudo-devKm&show_icons=true&theme=default&hide_border=true" alt="Keyur's GitHub stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudo-devKm&layout=compact&hide_border=true" alt="Top languages" width="48%" />
 
 ## Connect
 
