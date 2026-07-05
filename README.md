@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-keyurmachhi.dev-7c3aed?style=flat-square)](https://keyurmachhi.dev)
 [![Email](https://img.shields.io/badge/Email-keyurmachhi123%40gmail.com-informational?style=flat-square)](mailto:keyurmachhi123@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square)](#)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square)
 
 ## About
 
@@ -53,16 +53,6 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Senior Application Developer | TransImpact | Feb 2026 – Present |
-| Software Engineer (Promoted rehire) | Pixel Que Software | Feb 2024 – Feb 2026 |
-| Jr. Software Developer | eSparkBiz Technologies | Oct 2022 – Feb 2024 |
-| Associate Software Engineer | Pixel Que Software | Jul 2021 – Oct 2022 |
-| Graduate Engineer Trainee | China Steel Corporation India | Nov 2020 – Jul 2021 |
-
 ## Featured Projects
 
 - **[ChatSphere](https://github.com/sudo-devKm/chat-sphere)** — Real-time chat app with private messaging, group rooms, and presence indicators (Socket.IO). Peer-to-peer WebRTC audio/video calling with no media server required.
@@ -70,8 +60,8 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-devKm&show_icons=true&theme=default&hide_border=true" alt="Keyur's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-devKm&layout=compact&hide_border=true" alt="Top languages" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sudo-devKm&show_icons=true&theme=default&hide_border=true" alt="Keyur's GitHub stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudo-devKm&layout=compact&hide_border=true" alt="Top languages" width="48%" />
 
 ## Connect
 
