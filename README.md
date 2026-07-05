@@ -55,8 +55,8 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 
 ## Featured Projects
 
-- **[ChatSphere](https://github.com/sudo-devKm/chat-sphere)** — Real-time chat app with private messaging, group rooms, and presence indicators (Socket.IO). Peer-to-peer WebRTC audio/video calling with no media server required.
-- **E-Commerce Platform** — Responsive Angular 8 PWA with Firebase Realtime Database, Firestore security rules, and lazy-loaded routes for fast initial loads.
+- **[ChatSphere](https://github.com/sudo-devKm/chat-sphere)** ([live demo](https://chat-sphere-tawny.vercel.app/)) — Real-time chat app with private messaging, group rooms, and presence indicators (Socket.IO). Peer-to-peer WebRTC audio/video calling with no media server required.
+- **[E-Commerce Platform](https://github.com/sudo-devKm/eCommerce)** — Responsive Angular 8 PWA with Firebase Realtime Database, Firestore security rules, and lazy-loaded routes for fast initial loads.
 
 ## Connect
 
