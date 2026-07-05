@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** building HIPAA-compliant healthcare platforms, enterprise CRM systems, and supply chain planning tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-keyurmachhi.dev-7c3aed?style=flat-square)](https://keyurmachhi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sudo--km.vercel.app-7c3aed?style=flat-square)](https://sudo-km.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-keyurmachhi123%40gmail.com-informational?style=flat-square)](mailto:keyurmachhi123@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square)
 
@@ -58,12 +58,7 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 - **[ChatSphere](https://github.com/sudo-devKm/chat-sphere)** — Real-time chat app with private messaging, group rooms, and presence indicators (Socket.IO). Peer-to-peer WebRTC audio/video calling with no media server required.
 - **E-Commerce Platform** — Responsive Angular 8 PWA with Firebase Realtime Database, Firestore security rules, and lazy-loaded routes for fast initial loads.
 
-## GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=sudo-devKm&show_icons=true&theme=default&hide_border=true" alt="Keyur's GitHub stats" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudo-devKm&layout=compact&hide_border=true" alt="Top languages" width="48%" />
-
 ## Connect
 
-- Portfolio: [keyurmachhi.dev](https://keyurmachhi.dev)
+- Portfolio: [sudo-km.vercel.app](https://sudo-km.vercel.app/) — case studies on HIPAA-compliant healthcare platforms, CRM systems, and supply chain planning tools, plus deep-dives into ChatSphere and other personal projects
 - Email: [keyurmachhi123@gmail.com](mailto:keyurmachhi123@gmail.com)
