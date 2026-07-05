@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-keyurmachhi.dev-7c3aed?style=flat-square)](https://keyurmachhi.dev)
 [![Email](https://img.shields.io/badge/Email-keyurmachhi123%40gmail.com-informational?style=flat-square)](mailto:keyurmachhi123@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square)](#)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-lightgrey?style=flat-square)
 
 ## About
 
@@ -52,16 +52,6 @@ Planning product with NestJS, Angular 19, and Microsoft SQL Server.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Senior Application Developer | TransImpact | Feb 2026 – Present |
-| Software Engineer (Promoted rehire) | Pixel Que Software | Feb 2024 – Feb 2026 |
-| Jr. Software Developer | eSparkBiz Technologies | Oct 2022 – Feb 2024 |
-| Associate Software Engineer | Pixel Que Software | Jul 2021 – Oct 2022 |
-| Graduate Engineer Trainee | China Steel Corporation India | Nov 2020 – Jul 2021 |
 
 ## Featured Projects
 
