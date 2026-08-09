@@ -96,7 +96,7 @@ I deliver:
 
 ---
 
-<details>
+<details open>
 <summary><b>🏆 Certifications</b></summary>
 <br/>
 
